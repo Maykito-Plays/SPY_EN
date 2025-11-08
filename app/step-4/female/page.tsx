@@ -432,7 +432,7 @@ export default function Step4Female() { // Nome do componente ajustado para Step
 
         {/* Exclusive Discount */}
         <div className="bg-[#0A3622] text-white rounded-lg p-6">
-          <h2 className="text-2xl font-bold text-center">EXCLUSIVE DISCOUNT</h2>
+          <h2 className="text-2xl font-bold text-center">EXCLUSIVE DISCOUNT FOR THE SPY APP - KIT</h2>
           <div className="text-xl text-red-400 line-through text-center my-2">$97</div>
           <div className="text-4xl font-bold mb-4 text-center">$27</div>
 
